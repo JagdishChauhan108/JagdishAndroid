@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         progressBar.setMax(100);
 
+        //Jagdish Chauhan
         webView.loadUrl("https://www.google.com");
         webView.getSettings().setJavaScriptEnabled(true);
 
